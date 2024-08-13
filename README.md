@@ -3,7 +3,7 @@
 I'm a Cyber-Security Analyst who sees cybersecurity as a thrilling adventure! With a solid foundation in network, application, and cloud security, I love tackling challenges head-on and outsmarting cyber threats.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahalingam-m-984552129/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahalingam9213@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahalingam0109@gmail.com)
 ---
 
 ## Objective
